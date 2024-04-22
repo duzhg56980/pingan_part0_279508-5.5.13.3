@@ -1,0 +1,7 @@
+import com.itextpdf.text.pdf.parser.clipper.Clipper.PolyFillType;
+public class FunctionUse193 {
+public void funcUse() {
+PolyFillType polyfilltype = new PolyFillType();
+polyfilltype.values();
+}
+}

@@ -1,0 +1,7 @@
+import com.itextpdf.awt.geom.Dimension2D;
+public class FunctionUse6554 {
+public void funcUse() {
+Dimension2D dimension2d = new Dimension2D();
+dimension2d.clone();
+}
+}

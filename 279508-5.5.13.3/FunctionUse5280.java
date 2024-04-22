@@ -1,0 +1,7 @@
+import com.itextpdf.text.pdf.PdfEncryptor;
+public class FunctionUse5280 {
+public void funcUse() {
+PdfEncryptor pdfencryptor = new PdfEncryptor();
+pdfencryptor.isDegradedPrintingAllowed(null);
+}
+}

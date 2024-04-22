@@ -1,0 +1,7 @@
+import com.itextpdf.text.pdf.security.LtvVerification;
+public class FunctionUse8390 {
+public void funcUse() {
+LtvVerification ltvverification = new LtvVerification();
+ltvverification.addVerification(null,null,null,null,null,null);
+}
+}
